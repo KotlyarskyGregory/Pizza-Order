@@ -12,4 +12,5 @@ pizza_type.grid(row=1, column=1, padx=20, pady=10)
 n_slices = tk.Entry(root, width=30)
 n_slices.grid(row=2, column=1, padx=20, pady=10)
 
+# Create text boxes
 root.mainloop()
